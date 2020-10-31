@@ -1,5 +1,9 @@
 # RT-Thread #
 
+
+Github下载真是“煎熬”，这个Project里需要哪个MCU的文件，留言，我会压缩上传。
+
+
 [中文页](README_zh.md) |
 
 [![GitHub](https://img.shields.io/github/license/RT-Thread/rt-thread.svg)](https://github.com/RT-Thread/rt-thread/blob/master/LICENSE)
